@@ -1,4 +1,4 @@
-## Hi there 👋
+## 개발 배우고 있는 최윤상입니다. 👋
 
 <!--
 **Yunsang129/Yunsang129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
